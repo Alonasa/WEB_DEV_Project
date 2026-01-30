@@ -1,8 +1,10 @@
-## **Pizzy Pizzeria**
+# **Pizzy Pizzeria**
 
 The **Pizzy** is a fully deployed full-stack pizzeria website built using **Node.js**, **Express.js**, and **EJS** templating. The application serves as the front-end and back-end for a pizza delivery system where users can view their orders, including order details such as the date, time, total price, and order status.
 
-This project leverages dynamic server-side rendering with EJS to ensure a seamless and responsive user experience. The backend communicates with a **MySQL database** to manage orders and store details persistently. **Deployed version:  [Pizzy](https://pizzy.alonassko.com/)**
+This project leverages dynamic server-side rendering with EJS to ensure a seamless and responsive user experience. The backend communicates with a **MySQL database** to manage orders and store details persistently.
+
+**Deployed version:  [Pizzy](https://pizzy.alonassko.com/)**
  
 Users can view their orders, including order details such as the date, time, total price, and order status. This project leverages dynamic server-side rendering with EJS to ensure a seamless and responsive user experience. The website have it's own database which helps to store details about the products, users, and orders.
 In addition to this project, I bought and configured a VPS. The goal of it was to store the database and allow the website to have its own mail server, as the initial solution on Azure was a bit expensive on long run. 
