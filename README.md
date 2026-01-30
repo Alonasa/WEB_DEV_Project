@@ -1,4 +1,4 @@
-## **Pizzy Pizzeria **
+## **Pizzy Pizzeria**
 
 The **Pizzy** is a fully deployed full-stack pizzeria website built using **Node.js**, **Express.js**, and **EJS** templating. The application serves as the front-end and back-end for a pizza delivery system where users can view their orders, including order details such as the date, time, total price, and order status.
 
